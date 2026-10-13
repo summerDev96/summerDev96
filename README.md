@@ -1,14 +1,8 @@
-::: {align="center"}
-
 # 안녕하세요, 프론트엔드 개발자 배수민입니다 👋
 
 **사용자의 불편을 발견하고, 더 나은 UI와 유지보수하기 좋은 구조로
 개선합니다.**
 
-React · Next.js · TypeScript · Vue.js
-:::
-
----
 
 ## 🙋‍♀️ About Me
 
@@ -22,12 +16,6 @@ React · Next.js · TypeScript · Vue.js
 
 ## ✨ Highlights
 
----
-
-프로젝트 성과
-
----
-
   12개 화면에 반복되던 테이블을 공통  **중복 코드 약 70% 감소**
   컴포넌트로 추상화                   
 
@@ -39,8 +27,6 @@ React · Next.js · TypeScript · Vue.js
 
   중앙 집중식 오버레이 훅 설계        모달 종료 후 로직을 순차 실행하고
                                   모달 상태를 독립적으로 관리
-
----
 
 ## 🛠 Tech Stack
 
@@ -81,6 +67,5 @@ Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo
 
 ---
 
-::: {align="center"}
+
 *더 나은 사용자 경험과 지속적으로 개선할 수 있는 코드를 고민합니다.*
-:::
